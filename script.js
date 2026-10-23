@@ -1,6 +1,6 @@
 // Declaração das strings e arrays
-var string = "( Olhar todo esse maravilhoso portifólio te enche de determinação. )";
-var stringTwo = "( HP recuperado completamente. )";
+var string = "( Looking at this wonderful portfolio fills you with determination. )";
+var stringTwo = "( HP fully restored. )";
 var arrayTwo = stringTwo.split(""); // Array da segunda string
 var array = string.split(""); // Array da primeira string
 
@@ -123,7 +123,7 @@ function openSave() {
 
   // Adicionar evento para salvar o jogo ao clicar no botão de salvar
   document.getElementById("Save").addEventListener("click", function () {
-    saveBtn.innerHTML = "<h1 id='SaveGame'>Jogo Salvo</h1>";
+    saveBtn.innerHTML = "<h1 id='SaveGame'>Game Saved</h1>";
     time.innerHTML = "25:18";
     lvl.innerHTML = "LV 1";
     saveBtn.style.color = "yellow";
