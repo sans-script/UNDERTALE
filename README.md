@@ -2,7 +2,7 @@
 
 A small recreation of a save point from *Undertale* in HTML, CSS and JavaScript.
 
-**Live demo:** https://sans-script.github.io/undertale-savepoint/
+[Live demo](https://sans-script.github.io/UNDERTALE/)
 
 The dialog is typed out letter by letter with the game's text sound; clicking it moves to the second box, which plays the save sound and heals the player ("HP recuperado completamente"). Images, sounds and the *Determination Sans* web font are in `Imgs/`, `Sounds/` and the root folder.
 
