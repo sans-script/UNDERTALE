@@ -1,5 +1,5 @@
 // Declaração das strings e arrays
-var string = "( Looking at this wonderful portfolio fills you with determination. )";
+var string = "( Looking at this wonderful GitHub fills you with determination. )";
 var stringTwo = "( HP fully restored. )";
 var arrayTwo = stringTwo.split(""); // Array da segunda string
 var array = string.split(""); // Array da primeira string
